@@ -1,4 +1,4 @@
-package goHacky
+package concurrentMap
 
 import (
 	"context"
